@@ -4,6 +4,7 @@
 //
 //  Created by Şeyma Yılmaz on 1.01.2021.
 //
+//  degree calculation
 
 import SwiftUI
 
